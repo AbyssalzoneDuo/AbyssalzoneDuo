@@ -10,54 +10,54 @@
 </p>
 
 <p align="center">
-$${\color{#e5bae8}𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃 ༻ ꒰ ☁︎꒱ ༺ 𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃}$$
+$${\color{#b92928}𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃 ༻ ꒰ ☁︎꒱ ༺ 𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃}$$
 ㅤ</br>
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=Opps&color=dcc1de&style=plastic&abbreviated=true&base=14600">
+  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=Opps&color=b92928&style=plastic&abbreviated=true&base=14600">
 </p>
 
  </p>
 <p align="center">
-  $${\color{#e7c3e6}᭝ ᨳ 𝙸𝚜}$$ $${\color{#dbaeda}𝙸𝚝}$$ $${\color{#ce93cd}𝙴𝚟𝚎𝚛}$$ $${\color{#ca7ec8}𝙶𝚘𝚗𝚗𝚊}$$
-  $${\color{#c46dc2}𝙲𝚑𝚊𝚗𝚐𝚎...? ଓ ՟}$$
-ㅤ</br>
-</p>
-
- </p>
-<p align="center">
-  $${\color{#e7c3e6}᭝ ᨳ 𝙰𝚖}$$ $${\color{#dbaeda}𝙸}$$ $${\color{#ce93cd}𝙶𝚘𝚒𝚗𝚐}$$ $${\color{#ca7ec8}𝚃𝚘}$$
-  $${\color{#c46dc2}𝙵𝚎𝚎𝚕}$$ $${\color{#cb60c8}𝚃𝚑𝚒𝚜}$$ $${\color{#d766d4}𝚆𝚊𝚢}$$ $${\color{#e675e2}𝙵𝚘𝚛𝚎𝚟𝚎𝚛..? ଓ ՟}$$
+  $${\color{#b92928}᭝ ᨳ 𝘐}$$ $${\color{#a5201f}𝙉𝙚𝙚𝙙}$$ $${\color{#921b1a}𝘠𝘰𝘶}$$ $${\color{#821615}𝘛𝘰}$$
+  $${\color{#541918}𝙋𝙧𝙤𝙢𝙞𝙨𝙚}$$ $${\color{#4b2121}𝘔𝘦 ଓ ՟}$$
 ㅤ</br>
 </p>
 
  </p>
 <p align="center">
-  $${\color{#e7c3e6}⊹ ࣪ ˖꒰ঌ}$$ $${\color{#dbaeda}· · ─ ·ʚ᯽ɞ· ─ · ·}$$ $${\color{#ce93cd}໒꒱.⋆˚࿔}$$
+  $${\color{#b92928}᭝ ᨳ 𝘛𝘩𝘢𝘵}$$ $${\color{#a5201f}𝘠𝘰𝘶}$$ $${\color{#921b1a}𝘞𝘪𝘭𝘭}$$ $${\color{#821615}𝙉𝙤𝙩}$$
+  $${\color{#541918}𝘋𝘪𝘦 ଓ ՟}$$
 ㅤ</br>
 </p>
 
  </p>
 <p align="center">
-  $${\color{#e7c3e6}Dry}$$ $${\color{#dbaeda}Or}$$ $${\color{#ce93cd}Energetic}$$ $${\color{#ca7ec8}On}$$ 
-  $${\color{#c46dc2}First}$$ $${\color{#cb60c8}Meet}$$ ㅤ 
+  $${\color{#b92928}⊹ ࣪ ˖꒰ঌ}$$ $${\color{#a5201f}· · ─ ·ʚ᯽ɞ· ─ · ·}$$ $${\color{#921b1a}໒꒱.⋆˚࿔}$$
 ㅤ</br>
 </p>
 
  </p>
 <p align="center">
-  $${\color{#e7c3e6}Sensitive}$$ $${\color{#dbaeda}--}$$ $${\color{#ce93cd}Iwcare}$$ㅤ 
+  $${\color{#b92928}Dry}$$ $${\color{#a5201f}Or}$$ $${\color{#921b1a}Energetic}$$ $${\color{#821615}On}$$ 
+  $${\color{#541918}First}$$ $${\color{#4b2121}Meet}$$ ㅤ 
+ㅤ</br>
+</p>
+
+ </p>
+<p align="center">
+  $${\color{#b92928}Sensitive}$$ $${\color{#a5201f}--}$$ $${\color{#921b1a}Iwcare}$$ㅤ 
 ㅤ</br>
 </p>
 
 <p align="center">
-$${\color{#e5bae8}𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃 ༻ ꒰ ☁︎ ꒱ ༺ 𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃}$$
+$${\color{#b92928}𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃 ༻ ꒰ ☁︎ ꒱ ༺ 𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃}$$
 ㅤ</br>
 </p>
 
 <p align="center">
-  $${\color{#e7c3e6}L}$$ $${\color{#dbaeda}i}$$ $${\color{#ce93cd}n}$$ $${\color{#c46dc2}k}$$
-  $${\color{#d766d4}s}$$ ㅤ</br>  
+  $${\color{#b92928}L}$$ $${\color{#a5201f}i}$$ $${\color{#921b1a}n}$$ $${\color{#821615}k}$$
+  $${\color{#541918}s}$$ ㅤ</br>  
 ㅤ</br>
 </p>
 <p align="center">
