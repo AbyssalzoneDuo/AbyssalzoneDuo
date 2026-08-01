@@ -70,7 +70,7 @@ $${\color{#b92928}𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃 ༻ ꒰ ☁︎ ꒱ �
   <img width="800" height="50" src="https://64.media.tumblr.com/8977f85e4b09810163f8af7c71386ca0/ae82d4cb0cedcfdd-f5/s1280x1920/1f6ebcc8c12f03f8c6ad5a2ec60c29db03d9436d.pnj">
 </p>
 
-  <video src="https://github.com/user-attachments/assets/4fe6ff0b-9977-4db6-8bdf-5d4c23ddb54b" width="80%" controls></video>
+  <video src="https://github.com/user-attachments/assets/4fe6ff0b-9977-4db6-8bdf-5d4c23ddb54b" width="85%" controls></video>
 
   
 
