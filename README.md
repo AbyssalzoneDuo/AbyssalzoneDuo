@@ -1,5 +1,5 @@
   <p align="center">
-  <img width="800" height="50" src="https://64.media.tumblr.com/8977f85e4b09810163f8af7c71386ca0/ae82d4cb0cedcfdd-f5/s1280x1920/1f6ebcc8c12f03f8c6ad5a2ec60c29db03d9436d.pnj">
+  <img width="1000" height="325" src="https://64.media.tumblr.com/06f4c3727dc1a30ec183cc53b1737c5e/d0530786d60ebabf-32/s400x600/a2f99443c0e48414f28eb5259ab7c966ee4b3b86.pnj">
 </p>
 
 </p>
@@ -71,7 +71,7 @@ $${\color{#b92928}𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃𓂃 ༻ ꒰ ☁︎ ꒱ �
   <br>
   
   <p align="center">
-  <img width="800" height="50" src="https://64.media.tumblr.com/8977f85e4b09810163f8af7c71386ca0/ae82d4cb0cedcfdd-f5/s1280x1920/1f6ebcc8c12f03f8c6ad5a2ec60c29db03d9436d.pnj">
+  <img width="500" height="50" src="https://64.media.tumblr.com/c8943d377df2e3a7def3e36b547cc94e/a998844aae4bf8c4-ec/s400x600/e7d63e177466ac438f6f65829d29940af037e7c0.pnj">
 </p>
 
   <video src="https://github.com/user-attachments/assets/4fe6ff0b-9977-4db6-8bdf-5d4c23ddb54b" width="85%" controls></video>
