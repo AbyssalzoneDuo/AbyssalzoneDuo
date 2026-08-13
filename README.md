@@ -1,5 +1,6 @@
-
-  BEING REMADE - __NOT__ UP TO DATE
+  <p align="center">
+  BEING REMADE - NOT UP TO DATE!!!!!
+  </p>
   
   <p align="center">
   <img width="1000" height="325" src="https://64.media.tumblr.com/06f4c3727dc1a30ec183cc53b1737c5e/d0530786d60ebabf-32/s400x600/a2f99443c0e48414f28eb5259ab7c966ee4b3b86.pnj">
