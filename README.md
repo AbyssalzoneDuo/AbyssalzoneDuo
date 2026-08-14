@@ -45,7 +45,8 @@
   <br>
 
   <p align="center">
-  <a href= "https://github.com/pt-hall-of-media"> ᴛʏ ᴘᴛ-ʜᴀʟʟ-ᴏꜰ-ᴍᴇᴅɪᴀ! :ᴅ </a>
+  <a href= "https://github.com/pt-hall-of-media"> ᴛʏ ᴘᴛ-ʜᴀʟʟ-ᴏꜰ-ᴍᴇᴅɪᴀ! :ᴅ </a> +
+  <a href= "https://github.com/pt-fashion"> ᴘᴛ ꜰᴀꜱʜɪᴏɴ :ᴅ </a> 
   <br>
 
   </p>
