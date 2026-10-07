@@ -3,8 +3,8 @@
   <img width="350" height="350" src="https://file.garden/aitxhC9ZEFuXuKr-/tumblr_616575796e13acce62658449085d48be_b2c09feb_500%20(1).png">
 </p>
 
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-velmyss&label=Recruits&color=d0dfb6&style=plastic&abbreviated=true&base=14600">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-AbyssalzoneDuo&label=Recruits&color=d0dfb6&style=plastic&abbreviated=true&base=21000">
 </p>
 
  </p>
